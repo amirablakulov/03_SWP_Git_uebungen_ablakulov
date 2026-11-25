@@ -21,3 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
     button.onclick = addDynamicContent;
     document.body.appendChild(button);
 });
+
+// FEHLER: nur für die Reset-Übung
+function brokenFunction() {
+    console.log("Dies ist ein Fehler);
+    undefinedVariable.someMethod();
+}
+
+brokenFunction();
