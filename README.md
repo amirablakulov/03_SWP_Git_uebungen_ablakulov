@@ -13,3 +13,5 @@ Dieses Repository ist die Ausgangsbasis für eine durchgängige Git-Übung mit H
 - JavaScript-Funktionalität geplant
 
 > **Wichtig:** Ändern Sie die Ausgangsdateien erst, wenn das Skript Sie dazu auffordert.
+
+Soft Reset Test
